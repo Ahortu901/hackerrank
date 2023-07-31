@@ -7,6 +7,7 @@ C++ hackerrank project
 ```
 Objective
 This is a simple challenge to help you practice printing to stdout. You may also want to complete Solve Me First in C++ before attempting this challenge.
+<hr>
 
 We're starting out by printing the most famous computing phrase of all time! In the editor below, use either printf or cout to print the string
 
@@ -31,18 +32,17 @@ Print
 to stdout.
 
 Sample Output
-```
-Hello, World!
-```
 
+Hello, World!
 ```
 
 [2.Input Output](https://github.com/Ahortu901/hackerrank/blob/main/c%2B%2B/hello.cpp):
 
 * Discprition
-* ```
+```
 Objective
 In this challenge, we practice reading input from stdin and printing output to stdout.
+<hr>
 
 In C++, you can read a single whitespace-separated token of input using cin, and print output to stdout using cout. For example, let's say we declare the following variables:
 
@@ -96,5 +96,4 @@ Sample Output
 Explanation
 
 The sum of the three numbers is 1 + 2 + 7= 10
-.
 ```
