@@ -163,7 +163,7 @@ followed by float 334.230,
 followed by double 14049.304930000.
 ```
 
-4.[Condition Statement](https://github.com/Ahortu901/hackerrank/blob/main/c%2B%2B/i%26o.cpp):
+4.[Condition Statement](https://github.com/Ahortu901/hackerrank/blob/main/c%2B%2B/condition_statement.cpp):
 
 * Discriptipon:
   ```
