@@ -1,8 +1,9 @@
 C++ hackerrank project
 <hr>
 
-[Introduction](https://github.com/Ahortu901/hackerrank/blob/main/c%2B%2B/hello.cpp):
-** Discprition
+[1.Hello World!](https://github.com/Ahortu901/hackerrank/blob/main/c%2B%2B/hello.cpp):
+
+* Discprition
 ```
 Objective
 This is a simple challenge to help you practice printing to stdout. You may also want to complete Solve Me First in C++ before attempting this challenge.
