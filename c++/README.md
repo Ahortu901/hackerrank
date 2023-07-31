@@ -96,7 +96,7 @@ Explanation
 The sum of the three numbers is 1 + 2 + 7= 10
 ```
 
-3.[Basic Data Type](https://github.com/Ahortu901/hackerrank/blob/main/c%2B%2B/i%26o.cpp):
+3.[Basic Data Type](https://github.com/Ahortu901/hackerrank/blob/main/c%2B%2B/data_type.cpp):
 
 * Discription:
 ```
