@@ -1,4 +1,4 @@
-##C++ hackerrank project
+# C++ hackerrank project
 <hr>
 
 [1.Hello World!](https://github.com/Ahortu901/hackerrank/blob/main/c%2B%2B/hello.cpp):
@@ -35,7 +35,7 @@ Sample Output
 Hello, World!
 ```
 
-[2.Input Output](https://github.com/Ahortu901/hackerrank/blob/main/c%2B%2B/hello.cpp):
+[2.Input Output](https://github.com/Ahortu901/hackerrank/blob/main/c%2B%2B/i%26o.cpp):
 
 * Discprition
 ```
